@@ -1,0 +1,9 @@
+{
+  "name": "earthquake-finder",
+  "main": "earthquake-finder.js",
+  "version": "374.0.0",
+  "author": {
+    "name": "Michael Salaverry",
+    "url": "https://observablehq.com/@barakplasma"
+  }
+}
